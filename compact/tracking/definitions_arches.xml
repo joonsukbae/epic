@@ -185,7 +185,6 @@
     </plugin>
   </plugins>
   <define>
-    <constant name="materials-map" value="calibrations/material-map-arches.cbor" type="string"/><!-- EICrecon older than 1.6.0 -->
     <constant name="material-map" value="calibrations/material-map-arches.cbor" type="string"/>
   </define>
 
