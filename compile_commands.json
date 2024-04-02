@@ -1,0 +1,362 @@
+[
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/B0ECal_geo.cpp.o -c /home/hseong/eic/epic-local/src/B0ECal_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/B0ECal_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/B0ECal_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/B0Preshower_geo.cpp.o -c /home/hseong/eic/epic-local/src/B0Preshower_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/B0Preshower_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/B0Preshower_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/B0Tracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/B0Tracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/B0Tracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/B0Tracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BackwardsBeamPipe_geo.cpp.o -c /home/hseong/eic/epic-local/src/BackwardsBeamPipe_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BackwardsBeamPipe_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BackwardsBeamPipe_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BackwardsCollimator.cpp.o -c /home/hseong/eic/epic-local/src/BackwardsCollimator.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BackwardsCollimator.cpp",
+  "output": "CMakeFiles/epic.dir/src/BackwardsCollimator.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BackwardsLumiVac_geo.cpp.o -c /home/hseong/eic/epic-local/src/BackwardsLumiVac_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BackwardsLumiVac_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BackwardsLumiVac_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BackwardsTaggers_geo.cpp.o -c /home/hseong/eic/epic-local/src/BackwardsTaggers_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BackwardsTaggers_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BackwardsTaggers_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelBarDetectorWithSideFrame_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelBarDetectorWithSideFrame_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelBarDetectorWithSideFrame_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelBarDetectorWithSideFrame_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelCalorimeterImaging_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelCalorimeterImaging_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelCalorimeterImaging_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelCalorimeterImaging_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelCalorimeterScFi_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelCalorimeterScFi_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelCalorimeterScFi_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelCalorimeterScFi_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelHCalCalorimeter_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelHCalCalorimeter_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelHCalCalorimeter_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelHCalCalorimeter_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelPlanarMPGDTracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelPlanarMPGDTracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelPlanarMPGDTracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelPlanarMPGDTracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BarrelTrackerWithFrame_geo.cpp.o -c /home/hseong/eic/epic-local/src/BarrelTrackerWithFrame_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BarrelTrackerWithFrame_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BarrelTrackerWithFrame_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/BeamPipeChain_geo.cpp.o -c /home/hseong/eic/epic-local/src/BeamPipeChain_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/BeamPipeChain_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/BeamPipeChain_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/CompositeTracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/CompositeTracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/CompositeTracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/CompositeTracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/CylindricalDipoleMagnet_geo.cpp.o -c /home/hseong/eic/epic-local/src/CylindricalDipoleMagnet_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/CylindricalDipoleMagnet_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/CylindricalDipoleMagnet_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/CylindricalMagnetChain_geo.cpp.o -c /home/hseong/eic/epic-local/src/CylindricalMagnetChain_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/CylindricalMagnetChain_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/CylindricalMagnetChain_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/DD4hep_GdmlDetector.cpp.o -c /home/hseong/eic/epic-local/src/DD4hep_GdmlDetector.cpp",
+  "file": "/home/hseong/eic/epic-local/src/DD4hep_GdmlDetector.cpp",
+  "output": "CMakeFiles/epic.dir/src/DD4hep_GdmlDetector.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/DIRC_geo.cpp.o -c /home/hseong/eic/epic-local/src/DIRC_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/DIRC_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/DIRC_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/DRICH_geo.cpp.o -c /home/hseong/eic/epic-local/src/DRICH_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/DRICH_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/DRICH_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/EcalLumiSpecWScFi_geo.cpp.o -c /home/hseong/eic/epic-local/src/EcalLumiSpecWScFi_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/EcalLumiSpecWScFi_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/EcalLumiSpecWScFi_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/EndcapCalorimeterWithInsertCutout_geo.cpp.o -c /home/hseong/eic/epic-local/src/EndcapCalorimeterWithInsertCutout_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/EndcapCalorimeterWithInsertCutout_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/EndcapCalorimeterWithInsertCutout_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/EndcapFluxReturn_geo.cpp.o -c /home/hseong/eic/epic-local/src/EndcapFluxReturn_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/EndcapFluxReturn_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/EndcapFluxReturn_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/EndcapTOF_geo.cpp.o -c /home/hseong/eic/epic-local/src/EndcapTOF_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/EndcapTOF_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/EndcapTOF_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/FieldMapB.cpp.o -c /home/hseong/eic/epic-local/src/FieldMapB.cpp",
+  "file": "/home/hseong/eic/epic-local/src/FieldMapB.cpp",
+  "output": "CMakeFiles/epic.dir/src/FieldMapB.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/FileLoader.cpp.o -c /home/hseong/eic/epic-local/src/FileLoader.cpp",
+  "file": "/home/hseong/eic/epic-local/src/FileLoader.cpp",
+  "output": "CMakeFiles/epic.dir/src/FileLoader.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ForwardRomanPot_geo.cpp.o -c /home/hseong/eic/epic-local/src/ForwardRomanPot_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ForwardRomanPot_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ForwardRomanPot_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/GeometryHelper.cpp.o -c /home/hseong/eic/epic-local/src/GeometryHelper.cpp",
+  "file": "/home/hseong/eic/epic-local/src/GeometryHelper.cpp",
+  "output": "CMakeFiles/epic.dir/src/GeometryHelper.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/GeometryHelpers.cpp.o -c /home/hseong/eic/epic-local/src/GeometryHelpers.cpp",
+  "file": "/home/hseong/eic/epic-local/src/GeometryHelpers.cpp",
+  "output": "CMakeFiles/epic.dir/src/GeometryHelpers.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/HomogeneousCalorimeter_geo.cpp.o -c /home/hseong/eic/epic-local/src/HomogeneousCalorimeter_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/HomogeneousCalorimeter_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/HomogeneousCalorimeter_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/HybridCalorimeter_geo.cpp.o -c /home/hseong/eic/epic-local/src/HybridCalorimeter_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/HybridCalorimeter_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/HybridCalorimeter_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/IP6BeamPipe.cpp.o -c /home/hseong/eic/epic-local/src/IP6BeamPipe.cpp",
+  "file": "/home/hseong/eic/epic-local/src/IP6BeamPipe.cpp",
+  "output": "CMakeFiles/epic.dir/src/IP6BeamPipe.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/InsertCalorimeter_geo.cpp.o -c /home/hseong/eic/epic-local/src/InsertCalorimeter_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/InsertCalorimeter_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/InsertCalorimeter_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LFHCAL_geo.cpp.o -c /home/hseong/eic/epic-local/src/LFHCAL_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LFHCAL_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LFHCAL_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiCollimator_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiCollimator_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiCollimator_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiCollimator_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiDirectPC_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiDirectPC_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiDirectPC_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiDirectPC_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiMagnets_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiMagnets_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiMagnets_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiMagnets_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiPhotonChamber_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiPhotonChamber_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiPhotonChamber_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiPhotonChamber_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiSpecHomoCAL_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiSpecHomoCAL_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiSpecHomoCAL_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiSpecHomoCAL_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiSpecTracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiSpecTracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiSpecTracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiSpecTracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/LumiWindow_geo.cpp.o -c /home/hseong/eic/epic-local/src/LumiWindow_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/LumiWindow_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/LumiWindow_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/MRich_geo.cpp.o -c /home/hseong/eic/epic-local/src/MRich_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/MRich_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/MRich_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/OffMomentumTracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/OffMomentumTracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/OffMomentumTracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/OffMomentumTracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/PFRICH_geo.cpp.o -c /home/hseong/eic/epic-local/src/PFRICH_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/PFRICH_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/PFRICH_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/PolyhedraEndcapCalorimeter2_geo.cpp.o -c /home/hseong/eic/epic-local/src/PolyhedraEndcapCalorimeter2_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/PolyhedraEndcapCalorimeter2_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/PolyhedraEndcapCalorimeter2_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ScFiCalorimeter_geo.cpp.o -c /home/hseong/eic/epic-local/src/ScFiCalorimeter_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ScFiCalorimeter_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ScFiCalorimeter_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/SimpleDiskDetector_geo.cpp.o -c /home/hseong/eic/epic-local/src/SimpleDiskDetector_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/SimpleDiskDetector_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/SimpleDiskDetector_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/Solenoid_geo.cpp.o -c /home/hseong/eic/epic-local/src/Solenoid_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/Solenoid_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/Solenoid_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/SupportServiceMaterial_geo.cpp.o -c /home/hseong/eic/epic-local/src/SupportServiceMaterial_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/SupportServiceMaterial_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/SupportServiceMaterial_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/TaggerCalWSi_geo.cpp.o -c /home/hseong/eic/epic-local/src/TaggerCalWSi_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/TaggerCalWSi_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/TaggerCalWSi_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/TrapEndcapTracker_geo.cpp.o -c /home/hseong/eic/epic-local/src/TrapEndcapTracker_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/TrapEndcapTracker_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/TrapEndcapTracker_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZDC_Crystal_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZDC_Crystal_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZDC_Crystal_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZDC_Crystal_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZDC_ImagingCal_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZDC_ImagingCal_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZDC_ImagingCal_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZDC_ImagingCal_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZDC_SamplingCal_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZDC_SamplingCal_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZDC_SamplingCal_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZDC_SamplingCal_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterEcalWSciFi_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterEcalWSciFi_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterEcalWSciFi_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterEcalWSciFi_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterEcal_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterEcal_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterEcal_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterEcal_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterSampling_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterSampling_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterSampling_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterSampling_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterSiPMonTile_geo.cpp.o -c /home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterSiPMonTile_geo.cpp",
+  "file": "/home/hseong/eic/epic-local/src/ZeroDegreeCalorimeterSiPMonTile_geo.cpp",
+  "output": "CMakeFiles/epic.dir/src/ZeroDegreeCalorimeterSiPMonTile_geo.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/hadronDownstreamBeamPipe.cpp.o -c /home/hseong/eic/epic-local/src/hadronDownstreamBeamPipe.cpp",
+  "file": "/home/hseong/eic/epic-local/src/hadronDownstreamBeamPipe.cpp",
+  "output": "CMakeFiles/epic.dir/src/hadronDownstreamBeamPipe.cpp.o"
+},
+{
+  "directory": "/home/hseong/eic/epic-local/build",
+  "command": "/usr/bin/c++ -DBOOST_SPIRIT_USE_PHOENIX_V3 -DDD4HEP_USE_XERCESC -DFMT_SHARED -Depic_EXPORTS -isystem /usr/local/include/root -isystem /opt/software/linux-debian12-x86_64_v2/gcc-12.2.0/xerces-c-3.2.4-dw2nhv4nc32u3piqwhgg7ds32i2qbahv/include -ftls-model=global-dynamic -Wno-psabi -pedantic -Wextra -Wall -fdiagnostics-color=auto -Wdeprecated -Wno-long-long -Wformat-security -Wshadow            -pthread -O2 -g -DNDEBUG -std=c++20 -fPIC -Wall -Wextra -Werror -pedantic -o CMakeFiles/epic.dir/src/magnetVacuumFF.cpp.o -c /home/hseong/eic/epic-local/src/magnetVacuumFF.cpp",
+  "file": "/home/hseong/eic/epic-local/src/magnetVacuumFF.cpp",
+  "output": "CMakeFiles/epic.dir/src/magnetVacuumFF.cpp.o"
+}
+]

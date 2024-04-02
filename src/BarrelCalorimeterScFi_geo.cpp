@@ -218,7 +218,7 @@ void buildFibers(Detector& desc, SensitiveDetector& sens, Volume& s_vol, int lay
 
   // fiber and its cladding
   double f_radius_core = f_radius - f_cladding_thickness;
-  Tube   f_tube_clad(0, f_radius, s_length); // TODO: check rmin and rmax
+  Tube   f_tube_clad(0, f_radius, s_length);
   Volume f_vol_clad("fiber_vol", f_tube_clad, desc.material(x_fiber.materialStr()));
   Tube   f_tube_core(0, f_radius_core, s_length);
   Volume f_vol_core("fiber_core_vol", f_tube_core, desc.material(x_fiber.materialStr()));
