@@ -472,6 +472,13 @@
     <fraction n="0.001" ref="N"/>
     <fraction n="0.001" ref="O"/>
     <constant name="BirksConstant" value="0.126*mm/MeV"/>
+  </material> <material name="SciFiPb_Clad">
+    <D type="density" value="1.19" unit="g / cm3"/>
+    <fraction n="0.080" ref="H"/>
+    <fraction n="0.606" ref="C"/>
+    <fraction n="0.000" ref="N"/>
+    <fraction n="0.314" ref="O"/>
+    <constant name="BirksConstant" value="0.126*mm/MeV"/> <!-- Should be modified after discussion --> 
   </material>
   <material name="SciFiPb_Glue">
     <D type="density" value="1.180" unit="g / cm3"/>
